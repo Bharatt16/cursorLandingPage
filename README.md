@@ -6,7 +6,7 @@ This project is a front-end recreation of the **Cursor landing page**, built to 
 
 ## 📷 Preview
 
-![Website preview](127.0.0.1_5500_.png)
+![Website preview](./asssets/127.0.0.1_5500_.png)
 
 ## 📌 Sections Recreated
 
